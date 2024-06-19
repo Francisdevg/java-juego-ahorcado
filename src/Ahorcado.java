@@ -50,9 +50,9 @@ public class Ahorcado {
                 palabraAdivinada = true;
                 System.out.println("");
                 System.out.println("");
-                System.out.println("**************************************************************");
-                System.out.println("*!Felicidades, has adivinado la palabra secreta: " + palabraSecreta + "*");
-                System.out.println("**************************************************************");
+                System.out.println("**********************************************************************");
+                System.out.println("*    !Felicidades, has adivinado la palabra secreta: " + palabraSecreta + "    *");
+                System.out.println("**********************************************************************");
             }
         }
 
